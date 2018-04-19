@@ -1,0 +1,127 @@
+#header_menu{
+    display:block !important;
+}
+#content{
+    width: 1248px;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+.content_left{
+    float: left;
+    width: 60%;
+    background: #FFFFFF;
+    padding:50px 30px;
+    text-align:center;
+    box-shadow:0 5px 9px 0 rgba(0,0,0,0.3);
+}
+.content_left img{
+    width: 70%;
+    margin-bottom:24px2222}
+.content_left div input,.content_right input{
+    background:#D44D4E;
+    width: 70px;
+    height:30px;
+    border-radius:5px;
+    border:1px solid #D44D4E;
+    color:#FFFFFF;
+    outline:none;
+}
+.content_left div input:first-of-type{
+    float:left;
+}
+.content_left div input:last-of-type{
+    float:right;
+}
+.content_left #ckepop a{
+    color:#000000;
+}
+#ckepop{
+    margin-top:50px;
+}
+.content_right{
+    float:right;
+    width: 30%;
+    background: #FFFFFF;
+    box-shadow: 0 5px 9px 0 rgba(0,0,0,0.3);
+}
+.content_name{
+    padding-top:20px;
+    padding-left: 15px;
+    margin-bottom:20px;
+}
+.content_name_img{
+    width:112px;
+    height:112px;
+    float: left;
+    background-position: center center !important;
+    background-size: cover !important;
+    overflow:hidden;
+}
+.content_name_title{
+    float:left;
+    padding:20px 0px 0px 20px;
+}
+.content_name_title p:first-of-type{
+    color:#333;
+    font-size: 24px;
+}
+.content_name_title p:last-of-type{
+    color:rgba(21,21,21,0.6);
+    font-size: 20px;
+}
+.content_comment{
+    background: #FAFAFA;
+    padding: 20px;
+    text-align:center;
+}
+.content_comment #imgDiv{
+    width: 67px;
+    height: 67px;
+    float:left;
+    background-position: center center !important;
+    background-size:cover !important;
+}
+.content_comment span{
+    float:left;
+    display: block;
+    line-height: 60px;
+    margin-left: 20px;
+}
+.content_comment span:last-of-type{
+    color: rgba(51,51,51,0.6);
+    font-size: 8px;
+    margin-right: 10px;
+    float: right;
+}
+.content_comment_content{
+    background: #FFFFFF;
+    margin-top: 10px;
+    padding: 20px 10px;
+    text-align: left;
+}
+.content_text{
+    width: 90%;
+    height: 157px;
+    box-shadow: inset 0px 1px 14px 0 rgba(0,0,0,0.3);
+    border-radius: 5px;
+    outline: none;
+    color:rgba(0,0,0,0.3);
+    resize: none;
+}
+.content_right div:last-of-type{
+    margin:10px auto;
+    margin-right:20px;
+    text-align:right;
+}
+
+/*分页样式*/
+.content_page{
+    margin: 30px auto;
+    text-align: center;
+}
+.content_page a{
+    margin: 0px 15px;
+    font-size: 15px;
+    color: #000000;
+}
+/*//分页样式*/
